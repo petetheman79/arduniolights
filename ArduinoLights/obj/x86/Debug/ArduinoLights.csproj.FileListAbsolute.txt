@@ -1,0 +1,11 @@
+E:\Development\Petetest\ArduinoLights\ArduinoLights\bin\Debug\ArduinoLights.exe
+E:\Development\Petetest\ArduinoLights\ArduinoLights\bin\Debug\ArduinoLights.pdb
+E:\Development\Petetest\ArduinoLights\ArduinoLights\obj\x86\Debug\ArduinoLights.Properties.Resources.resources
+E:\Development\Petetest\ArduinoLights\ArduinoLights\obj\x86\Debug\ArduinoLights.csproj.GenerateResource.Cache
+E:\Development\Petetest\ArduinoLights\ArduinoLights\obj\x86\Debug\ArduinoLights.exe
+E:\Development\Petetest\ArduinoLights\ArduinoLights\obj\x86\Debug\ArduinoLights.pdb
+E:\Development\Petetest\ArduinoLights\ArduinoLights\bin\Debug\CommandMessenger.dll
+E:\Development\Petetest\ArduinoLights\ArduinoLights\obj\x86\Debug\ArduinoLights.csprojResolveAssemblyReference.cache
+E:\Development\Petetest\ArduinoLights\ArduinoLights\obj\x86\Debug\ArduinoLights.LightForm.resources
+E:\Development\PeterTests\ArduinoLights\ArduinoLights\obj\x86\Debug\ArduinoLights.exe
+E:\Development\PeterTests\ArduinoLights\ArduinoLights\obj\x86\Debug\ArduinoLights.pdb

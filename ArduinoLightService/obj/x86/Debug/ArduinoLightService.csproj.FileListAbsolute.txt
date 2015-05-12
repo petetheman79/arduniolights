@@ -1,0 +1,8 @@
+E:\Development\Petetest\ArduinoLights\ArduinoLightService\bin\Debug\ArduinoLightService.exe
+E:\Development\Petetest\ArduinoLights\ArduinoLightService\bin\Debug\ArduinoLightService.pdb
+E:\Development\Petetest\ArduinoLights\ArduinoLightService\bin\Debug\CommandMessenger.dll
+E:\Development\Petetest\ArduinoLights\ArduinoLightService\obj\x86\Debug\ArduinoLightService.exe
+E:\Development\Petetest\ArduinoLights\ArduinoLightService\obj\x86\Debug\ArduinoLightService.pdb
+E:\Development\Petetest\ArduinoLights\ArduinoLightService\obj\x86\Debug\ArduinoLightService.csprojResolveAssemblyReference.cache
+E:\Development\PeterTests\ArduinoLights\ArduinoLightService\obj\x86\Debug\ArduinoLightService.exe
+E:\Development\PeterTests\ArduinoLights\ArduinoLightService\obj\x86\Debug\ArduinoLightService.pdb

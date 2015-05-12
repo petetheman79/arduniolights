@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArduinoLights", "ArduinoLights\ArduinoLights.csproj", "{3E2B0975-4953-4B08-8490-0EF91193AB1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArduinoLightService", "ArduinoLightService\ArduinoLightService.csproj", "{4FDCBA09-1B32-48E6-BC20-21B5158D2083}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArduinoLightApplication", "ArduinoLightApplication\ArduinoLightApplication.csproj", "{64E34E3F-26FE-428C-B40A-213268CF3859}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E2B0975-4953-4B08-8490-0EF91193AB1D}.Debug|x86.ActiveCfg = Debug|x86
+		{3E2B0975-4953-4B08-8490-0EF91193AB1D}.Debug|x86.Build.0 = Debug|x86
+		{3E2B0975-4953-4B08-8490-0EF91193AB1D}.Release|x86.ActiveCfg = Release|x86
+		{3E2B0975-4953-4B08-8490-0EF91193AB1D}.Release|x86.Build.0 = Release|x86
+		{4FDCBA09-1B32-48E6-BC20-21B5158D2083}.Debug|x86.ActiveCfg = Debug|x86
+		{4FDCBA09-1B32-48E6-BC20-21B5158D2083}.Debug|x86.Build.0 = Debug|x86
+		{4FDCBA09-1B32-48E6-BC20-21B5158D2083}.Release|x86.ActiveCfg = Release|x86
+		{4FDCBA09-1B32-48E6-BC20-21B5158D2083}.Release|x86.Build.0 = Release|x86
+		{64E34E3F-26FE-428C-B40A-213268CF3859}.Debug|x86.ActiveCfg = Debug|x86
+		{64E34E3F-26FE-428C-B40A-213268CF3859}.Debug|x86.Build.0 = Debug|x86
+		{64E34E3F-26FE-428C-B40A-213268CF3859}.Release|x86.ActiveCfg = Release|x86
+		{64E34E3F-26FE-428C-B40A-213268CF3859}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
